@@ -1,7 +1,6 @@
 #Funcion de prueba sobre el try - except
-#aqui alirio me ayudó a entender
 
-print("Vamos a probar la función con tru/except")
+print("Vamos a probar la función con try/except")
 
 def main():
     try:
